@@ -1,0 +1,12 @@
+
+
+		body {
+			font: Arial, Helvetica, sans-serif; 
+			color: #000;
+		}
+		
+		.banner-images {
+			width: 100%;
+		}
+
+		div { width: 320 px; padding: 10px; color: #000; }
