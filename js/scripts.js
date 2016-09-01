@@ -1,1 +1,1 @@
-alert('scripts are running');
+// alert('scripts are running');
